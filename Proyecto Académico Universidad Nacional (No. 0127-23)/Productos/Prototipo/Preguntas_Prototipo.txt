@@ -1,0 +1,10 @@
+1 - Cuáles fueron los hiperparámetros del mejor modelo de acuerdo al RMSE, tanto en la
+aproximación exhaustiva como genética?
+
+2 - Cuáles fueron los algoritmos que dieron mejor performance según el RMSE?
+
+3 - Existe alguna diferencia estadística en cuanto al tiempo entre la
+aproximación exhaustiva y la genética?
+
+4 - La aproximación genética llegó a alcanzar iguales resultados (RMSE) respecto a la
+aproximación exhaustiva?
