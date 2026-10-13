@@ -153,4 +153,3 @@ Los productos pueden contrastarse en el expediente institucional del Proyecto Ac
 
 Se deja constancia de que la vinculación de estos productos con la investigación posdoctoral en la UCM constituye el objeto principal de este documento. Los resultados aquí reseñados reflejan lo consignado en los informes académicos facilitados y quedan sujetos a comprobación mediante sus soportes primarios. Esta carta se expide para los efectos académicos y administrativos oportunos, incluida su presentación en procesos de concurso y evaluación de méritos.
 
-Para que conste a los efectos oportunos, se firma en Madrid, en la fecha indicada en el encabezamiento.
