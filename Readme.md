@@ -1,11 +1,3 @@
-# UNIVERSIDAD COMPLUTENSE DE MADRID
-
-## Departamento de Ingeniería del Software e Inteligencia Artificial
-
-> **Madrid, 12 de octubre de 2026** *(borrador para validación y firma)*
-
----
-
 ## 📑 Contenido
 
 1. [A quien corresponda](#-a-quien-corresponda)
@@ -16,21 +8,7 @@
 
 ---
 
-## 📌 A QUIEN CORRESPONDA
-
-El Dr. Rubén Fuentes Fernández, Director del Instituto de Tecnología del Conocimiento (ITC) y Catedrático de Universidad del Departamento de Ingeniería del Software e Inteligencia Artificial de la Universidad Complutense de Madrid (UCM),
-
-### HACE CONSTAR:
-
-Que el Dr. Juan de Dios Murillo Morera, catedrático universitario de la Universidad Nacional de Costa Rica (UNA), desarrolló una estancia e investigación posdoctoral en colaboración académica con la Universidad Complutense de Madrid, su Departamento de Ingeniería del Software e Inteligencia Artificial y el Instituto de Tecnología del Conocimiento, desde septiembre de 2022 hasta septiembre de 2026, por un período de cuatro años, combinando visitas académicas presenciales a Madrid y trabajo de investigación a distancia.
-
-La presente constancia tiene por objeto acreditar expresamente que los resultados y productos que se detallan a continuación se originaron, desarrollaron o divulgaron en el marco de dicha investigación posdoctoral en la UCM, articulada con el Proyecto Académico UNA N.º 0127-23, «Un estudio empírico de la configuración de hiperparámetros en el contexto de la predicción de densidad de defectos de software mediante el uso de algoritmos bioinspirados». La ejecución administrativa del proyecto UNA se documenta desde el 17 de julio de 2023; por tanto, no debe confundirse su período institucional con el período completo de colaboración posdoctoral (2022–2026).
-
-> La línea científica se sitúa en la intersección de Ingeniería del Software, Inteligencia Artificial, aprendizaje automático y Search-Based Software Engineering (SBSE), con énfasis en la configuración automática de hiperparámetros y la predicción de densidad de defectos de software.
-
----
-
-## 🔬 RESULTADOS Y PRODUCTOS DERIVADOS DE LA INVESTIGACIÓN POSDOCTORAL UCM–UNA
+## 🔬 RESULTADOS Y PRODUCTOS DERIVADOS DE LA INVESTIGACIÓN
 
 ### 1. Revisión sistemática: «A Systematic Mapping and Review Study on Software Defect Density Prediction Models»
 
